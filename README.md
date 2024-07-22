@@ -3,7 +3,7 @@
 ## To install all the dependencies
 - npm install
 
-# To run all the test
+## To run all the test
 - cypress run
 
 # Appium
